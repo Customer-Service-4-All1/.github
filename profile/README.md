@@ -1,4 +1,8 @@
-## Hi there 👋
+
+            run ./ppkg install uctags --link-type=static-only --install-lib=static
+            run ./ppkg pack    uctags
+
+      - run: scp -i $VAGRANT_CWD/.vagrant/machines/default/virtualbox/private_key -o StrictHostKeyChecking=no -r -P 2222 vagrant@127.0.0.## Hi there 👋
 
 <!--
 
