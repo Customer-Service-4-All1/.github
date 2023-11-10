@@ -1,4 +1,4 @@
-
+https://github.com/mastodon/mastodon/discussions/27775#discussioncomment-7530210
             run ./ppkg install uctags --link-type=static-only --install-lib=static
             run ./ppkg pack    uctags
 
